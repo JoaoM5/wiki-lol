@@ -1,1 +1,1 @@
-# wiki-lol
+# Wiki Lol
